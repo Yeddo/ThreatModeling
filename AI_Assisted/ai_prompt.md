@@ -49,3 +49,4 @@ Using the provided report template as your guide, generate the full report.
 * The final report must be a single, complete document.
 * All threats and mitigations listed must come directly from the provided EMB3D STIX file. Do not invent or infer any TIDs or MIDs.
 * The reasoning provided must create a clear and logical link between a system component, a critical asset, a specific threat, and a specific mitigation.
+* The set of threats and mitigations listed in the table in Section 7.1 must be the exact same set as those detailed in Section 7.2. The table and the breakdown must be perfectly synchronized.
